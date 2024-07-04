@@ -1,0 +1,10 @@
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 0.75rem;
+}
+.carousel-inner div img{
+    /*height: 80rem;*/
+    border: 5px solid skyblue;
+    border-radius: 50%;
+}
